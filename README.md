@@ -44,21 +44,25 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+<img width="1600" height="899" alt="WhatsApp Image 2026-08-17 at 8 29 04 AM" src="https://github.com/user-attachments/assets/cefafcc2-7df1-426e-b3b3-38cfec78931d" />
+
+
 
 
 ### 3. Transient Response Setup
 
-![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
+<img width="515" height="665" alt="WhatsApp Image 2026-08-17 at 8 29 04 AM (1)" src="https://github.com/user-attachments/assets/7beb14fb-7202-490b-8264-00e7cf301e52" />
 
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
+<img width="515" height="665" alt="WhatsApp Image 2026-08-17 at 8 29 04 AM (1)" src="https://github.com/user-attachments/assets/ca76197e-fba1-4ffc-b1ae-62561cccc01f" />
+
+
 
 
 
 ## Output
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+<img width="1600" height="780" alt="WhatsApp Image 2026-08-17 at 8 29 04 AM (2)" src="https://github.com/user-attachments/assets/a289eb27-68f2-4ff5-8531-a716ed106710" />
 
 
 ## Results
